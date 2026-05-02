@@ -74,7 +74,7 @@ Task-Manager-Tutorial-main/
    ```bash
    npm install
    ```
-3. Create `.env` from `.env.example` and configure:
+3. Create `.env` and configure:
    ```bash
    cp .env.example .env
    ```
